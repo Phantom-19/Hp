@@ -1,5 +1,4 @@
-#!/bin/bash
-#Faxel \e[1;91m[\e[0m\e[1;73m+\e[0m\e[1;91m] 
+#!/Faxel/bin/bash
 clear
 toilet -f pagga         HP         | lolcat
 echo "Mise a jour de Hp en cours........." | lolcat
