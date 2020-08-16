@@ -25,14 +25,11 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Hp.git`
 * `cd Hp`
-## ` Execution > ` `python3 faxel`
-
-## ` NOM D'UTILISATEUR : Faxel    `
-## ` MOT DE PASSE      : 08127934 `
+## ` Execution > ` `python3 faxel --langue fr`
 
 ##  `Commande unique de Hp`:
 ```
-apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel
+apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel --langue fr
 ```
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 ## `Retrouvez moi sur` :
