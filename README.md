@@ -33,7 +33,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/H
 ```
 ##  `Disponibilité`:
 ``` 
-Il y'a quatre langue disponible a la version >2.5, bientot d'autres langues seront disponibles sous une autre forme avec une nouvelle version.
+Il y'a quatre langues disponibles à la version >2.5, bientot d'autres langues seront disponibles sous une autre forme avec une nouvelle version.
 ``` 
 ##  `Aperçue`:
 
