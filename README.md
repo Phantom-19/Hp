@@ -26,11 +26,15 @@
 * `git clone https://github.com/Phantom-19/Hp.git`
 * `cd Hp`
 ## ` Execution > ` `python3 faxel --langue fr`
-## ` Il y'a quatre langue disponible a la vsersion >2.5, bientot d'autres langues seront disponibe `
+
 ##  `Commande unique de Hp`:
 ```
 apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel --langue fr
 ```
+##  `Disponibilité`:
+``` 
+Il y'a quatre langue disponible a la version >2.5, bientot d'autres langues seront disponibles sous une autre forme avec une nouvelle version.
+``` 
 ##  `Aperçue`:
 
 <p align="center">
@@ -57,4 +61,3 @@ apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/H
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
-[![PayPal](https://img.shields.io/badge/PayPal-%20donate-green.svg?logo=paypal)](https://www.paypal.me/kouadioantoine)
