@@ -10,7 +10,7 @@
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.5-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.5-green.svg?style=flat-square"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Hp??color=red&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Hp??color=red&style=flat-square"></a>
@@ -26,11 +26,22 @@
 * `git clone https://github.com/Phantom-19/Hp.git`
 * `cd Hp`
 ## ` Execution > ` `python3 faxel --langue fr`
-
+## ` Il y'a quatre langue disponible a la vsersion >2.5, bientot d'autres langues seront disponibe `
 ##  `Commande unique de Hp`:
 ```
 apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel --langue fr
 ```
+##  `Aperçue`:
+
+<p align="center">
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap1.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap2.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap3.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap4.png"/> 
+<img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap5.png"/> 
+<!--[![cap1.png](https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap1.png)]-->
+</p>
+
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 ## `Retrouvez moi sur` :
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
