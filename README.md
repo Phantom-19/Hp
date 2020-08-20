@@ -25,11 +25,11 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Hp.git`
 * `cd Hp`
-## ` Execution > ` `python3 faxel --langue fr`
+## ` Execution > ` `python2 faxel.py --langue fr`
 
 ##  `Commande unique de Hp`:
 ```
-apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel --langue fr
+apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python2 faxel.py --langue fr
 ```
 ##  `Disponibilité`:
 ``` 
@@ -43,10 +43,10 @@ Il y'a quatre langues disponibles à la version >2.5, bientot d'autres langues s
 <img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap3.png"/> 
 <img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap4.png"/> 
 <img alt="profile pic" width="500px" src="https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap5.png"/> 
-<!--[![cap1.png](https://github.com/Phantom-19/Hp/blob/master/Faxel/Faxel/capture/cap1.png)]-->
 </p>
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
+
 ## `Retrouvez moi sur` :
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
 [![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL)
@@ -61,3 +61,4 @@ Il y'a quatre langues disponibles à la version >2.5, bientot d'autres langues s
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
+
