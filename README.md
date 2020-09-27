@@ -29,7 +29,7 @@
 
 ##  `Commande unique`:
 ```
-apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; python3 faxel.py --langue fr
+apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Hp.git ; cd Hp ; pip install requests ; pip2 install requests ; python3 faxel.py --langue fr
 ```
 ##  `Disponibilité`:
 ``` 
@@ -54,7 +54,7 @@ Il y'a quatre langues disponibles à la version >2.5, bientot d'autres langues s
 [![Instagram](https://img.shields.io/badge/Instagram-%40faxelh-magenta?logo=instagram)](https://www.instagram.com/faxelh)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?logo=messenger)](https://www.messenger.com/t/faxel19)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%40Faxel-whatsapp--green?logo=whatsapp)](https://wa.me/22555709610)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-cyan?logo=telegram)](https://t.me/Faxelh)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-cyan?logo=telegram)](https://t.me/Linux_Tor)
 [![Pastebin](https://img.shields.io/badge/Pastebin-%40Faxel-purple?logo=pastebin)](https://pastebin.com/u/Faxel)
 [![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-teal?logo=Facebook)](https://www.facebook.com/Faxel19)
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40Faxel-brown?logo=skyrock)](https://Faxel.skyrock.com/profil/)
